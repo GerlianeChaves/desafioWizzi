@@ -5,7 +5,6 @@
 - [Sobre](#sobre)
 - [Pré Requisitos](#pre_requisitos)
 - [O repositório](#o_repositorio)
-- [Contributing](../CONTRIBUTING.md)
 
 ## Sobre <a name = "sobre"></a>
 
@@ -43,37 +42,10 @@ Considerando que você já possua o Python em sua máquina, para instalar a bibl
 pip install streamlit
 ```
 
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
 ## O repositório <a name = "o_repositorio"></a>
 
 Este repositório está organizado da seguinte forma:
-1. aplicação oficial do desafio: desafioWizziOficial.py
+1. aplicação oficial do desafio: desafioWizzi.py
 
 2. Pasta com versõe diferentes do mesmo desafio, desenvolvidos ao longo da construção da mesma.
 
