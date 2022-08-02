@@ -49,4 +49,4 @@ Este repositório está organizado da seguinte forma:
 
 2. Pasta com versõe diferentes do mesmo desafio, desenvolvidos ao longo da construção da mesma.
 
-3. arquivo secrets.toml utilizado para a parte referente a conexão com o GSheet.
+3. arquivos de configuração, originalmente encontrados na pasta .streamlit: secrets.toml, config.toml e requeriments.txt .
