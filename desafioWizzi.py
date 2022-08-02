@@ -16,12 +16,10 @@ def InfoViagem():
         InfoAdd = st.text_input('Informações adicionais (condições da estrada, etc)')
         
         #serviço adicional
-        ServicoAdd = st.radio('Deseja Contratar Serviço adicional?', ('Não', 'Sim'))
-        if (ServicoAdd == 'Sim'):
-            st.markdown('### Serviços adicionais oferecidos:')
-            carregador = st.checkbox('Carregador de móveis')
-            embalagem = st.checkbox('Ciaxas para embalagem')
-            Seguro = st.checkbox('Seguro viagem')
+        ServicoAdd = st.markdown(' ###    Serviços Adicionais')
+        carregador = st.checkbox('Carregador de móveis')
+        embalagem = st.checkbox('Ciaxas para embalagem')
+        Seguro = st.checkbox('Seguro viagem')
 
         #Botões
         proxViagem = st.form_submit_button('Próximo', on_click=InfoContato)
