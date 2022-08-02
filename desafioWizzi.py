@@ -1,7 +1,5 @@
 import streamlit as st;
 from streamlit import caching
-# from gsheetsdb import connect
-#from shillelagh.backends.apsw.db import connect
 
 #Menu/Layout
 st.sidebar.title('Fretes e Mudanças')
